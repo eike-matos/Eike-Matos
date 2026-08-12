@@ -3,7 +3,9 @@
 - **facts about me:**
 -  I'm a Data Engineer with 6+ years of hands-on experience in the data and software domain field. I specialize in dbt, Python, SQL, Snowflake, and Azure to build high-performance data pipelines and platforms.
 -  My fuel is coding, but before you write a line of code, write down your plan. Coding is easy, but understanding the problem is hard.
--  I love data, remember: data is almost everything, you need to ask the right questions. 
+-  I love data, remember: data is almost everything, you need to ask the right questions.
+- 🎾 🎮 Outside of code, you'll find me playing tennis or gaming.
+- 🌎 Languages: English & Portuguese
 - 📫 How to reach me: **eikeadrian9830@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
